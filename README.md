@@ -23,4 +23,7 @@ Fibonacci series using following methods:
    2. for loop
    3. reduce
   
-#
+# stacked_decorators_108.py
+Implement Factorial function using reduce method.
+stack logged and timed decorators.
+
