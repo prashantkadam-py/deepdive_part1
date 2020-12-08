@@ -24,6 +24,6 @@ Fibonacci series using following methods:
    3. reduce
   
 # stacked_decorators_108.py
-Implement Factorial function using reduce method.
-stack logged and timed decorators.
+Implement Factorial function using reduce method.  
+Stack logged and timed decorators.
 
