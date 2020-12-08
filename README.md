@@ -27,3 +27,8 @@ Fibonacci series using following methods:
 Implement Factorial function using reduce method.  
 Stack logged and timed decorators. Sequence of execution of stacked decorators is from top to bottom.
 
+# memoization_decorators_109.py
+Implement Fibonacci Series :
+  1. Memoize decorator specific to Fibonnaci Series function
+  2. Memoize decorator for generic function calls
+  3. lru cache
