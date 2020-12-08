@@ -32,3 +32,6 @@ Implement Fibonacci Series :
   1. Memoize decorator specific to Fibonnaci Series function
   2. Memoize decorator for generic function calls
   3. lru cache
+  
+# parameterized_decorators_111.py
+Implement Fibonacci Series with Timer as Parameterized Decorator having number of repetitions as parameter.
