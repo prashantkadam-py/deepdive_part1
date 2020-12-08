@@ -16,6 +16,11 @@ Implement Averager and Timer using :
 Implement Counter functionality to count number of times the function is called using closure.
 Function Names : add, mul
 
-# 
-
-
+# decorator_107.py
+Implement timer decorator for fibonacci series
+Fibonacci series using following methods:
+   1. recursion
+   2. for loop
+   3. reduce
+  
+#
