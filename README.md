@@ -17,7 +17,7 @@ Implement Counter functionality to count number of times the function is called 
 Function Names : add, mul
 
 # decorator_107.py
-Implement timer decorator for fibonacci series
+Implement timer decorator for fibonacci series  
 Fibonacci series using following methods:
    1. recursion
    2. for loop
