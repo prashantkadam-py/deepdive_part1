@@ -35,3 +35,9 @@ Implement Fibonacci Series :
   
 # parameterized_decorators_111.py
 Implement Fibonacci Series with Timer as Parameterized Decorator having number of repetitions as parameter.
+
+# decorator_class_112.py
+Using class as a decorator to decorate function.
+
+# decoratorating_class_113.py
+Using function to decorate class by adding debug function to the class. 
