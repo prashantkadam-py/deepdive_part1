@@ -41,3 +41,9 @@ Using class as a decorator to decorate function.
 
 # decoratorating_class_113.py
 Using function to decorate class by adding debug function to the class. 
+
+# single_dispatch_decorator_116.py
+Using single dispatcher module from functools to avoid stacking of if-elif-else.
+
+# named_tuples_app_126.py
+Using named tuples as an alternative to dictionary.
